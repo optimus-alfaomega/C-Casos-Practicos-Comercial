@@ -1,16 +1,12 @@
 # Taller Do While
 
-
 1. Una compañía de seguros tiene contratados a n vendedores. Cada uno hace tres ventas a la semana. Su política de pagos es que un vendedor recibe un sueldo base, y un 10% extra por comisiones de sus ventas. El gerente de su compañía desea saber cuánto dinero obtendrá en la semana cada vendedor por concepto de comisiones por las tres ventas realizadas, y cuánto tomando en cuenta su sueldo base y sus comisiones.
-
 
 2. En una empresa se requiere calcular el salario semanal de cada uno de los n obreros que laboran en ella. El salario se obtiene de la siguiente forma:
 	- Si el obrero trabaja 40 horas o menos se le paga $20 por hora
 	- Si trabaja más de 40 horas se le paga $20 por cada una de las primeras 40 horas y $25 por cada hora extra.
 
-
 3. Determinar cuántos hombres y cuántas mujeres se encuentran en un grupo de n personas, suponiendo que los datos son extraidos alumno por alumno.
-
 
 4. El departamento de Seguridad Pública y Tránsito del D.F. desea saber, de los n autos que entran a la ciudad de México, cuántos entran con calcomanía de cada color. Conociendo el último dígito de la placa de cada automóvil se puede determinar el color de la calcomanía utilizando la siguiente relación:
 
@@ -25,9 +21,7 @@ Dígito|Color
 
 5. Obtener el promedio de calificaciones de un grupo de n alumnos.
 
-
 6. Una persona desea invertir su dinero en un banco, el cual le otorga un 2% de interés. Cuál será la cantidad de dinero que ésta persona tendrá al cabo de un año si la ganancia de cada mes es reinvertida?
-
 
 7. Calcular el promedio de edades de hombres, mujeres y de todo un grupo de alumnos.
 
@@ -147,5 +141,6 @@ El fabricante cobra por concepto de interés un 20% sobre la cantidad que se pag
 	- 2. Las ventas totales para cada uno de los deportes 
 	- 3. Las ventas totales de todas las tiendas. 
 
-	[Ejercicio 11](ejercicio_11.cpp)#   C - C a s o s - P r a c t i c o s - C o m e r c i a l  
- 
+	[Ejercicio 11](ejercicio_11.cpp)#� �C�-�C�a�s�o�s�-�P�r�a�c�t�i�c�o�s�-�C�o�m�e�r�c�i�a�l�
+�
+�
